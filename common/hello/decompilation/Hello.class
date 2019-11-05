@@ -1,0 +1,9 @@
+import java.io.PrintStream;
+
+public class Hello
+{
+  public static void main(String[] paramArrayOfString)
+  {
+    System.out.println("hello world");
+  }
+}
